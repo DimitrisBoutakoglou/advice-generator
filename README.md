@@ -11,7 +11,7 @@ A simple and interactive web app that generates random pieces of advice using th
 
 ## Demo
 
-![Live Link](https://dimitrisboutakoglou.github.io/advice-generator/)
+https://dimitrisboutakoglou.github.io/advice-generator/
 
 
 ## Usage
